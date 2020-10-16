@@ -15,7 +15,7 @@ public class Biodata {
 	    System.out.println("Tempat Lahir\t: Tasikmalaya");
 	    System.out.println("Tanggal Lahir\t: 08 November 2001");
 	    System.out.println("------------------");
-	    System.out.println("Hobi\t\t\t: Nonton Anime, Ngoding, Bermain Game");
+	    System.out.println("Hobi\t\t\t: Nonton Anime, Bermain Game");
 	    System.out.println("Makes\t\t\t: Mie");
 	    System.out.println("Mikes\t\t\t: Kopi Manis");
     }
